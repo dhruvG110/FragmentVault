@@ -2,7 +2,8 @@
 
 # 💎 Fragment Vault
 
-<img width="1906" height="996" alt="image" src="[https://github.com/user-attachments/assets/c7d60869-b8b0-4d79-9998-f62576c4a7df](https://github.com/user-attachments/assets/c7d60869-b8b0-4d79-9998-f62576c4a7df)" />
+<img width="1902" height="996" alt="image" src="https://github.com/user-attachments/assets/052883a6-8d38-469f-bf1d-55962f73378b" />
+
 
 **Autonomous, Asynchronous RAG Agents for Massive Documents**
 
@@ -14,11 +15,15 @@
 
 [View Demo](#) • [Report Bug](#) • [Request Feature](#)
 
-<img width="1917" height="996" alt="image" src="[https://github.com/user-attachments/assets/87f2ee4c-0604-43c7-b593-8532a7fa32e2](https://github.com/user-attachments/assets/87f2ee4c-0604-43c7-b593-8532a7fa32e2)" />
+<img width="1276" height="724" alt="image" src="https://github.com/user-attachments/assets/42b7a513-9825-4564-813c-85390f125c4e" />
+
+
+<img width="1891" height="996" alt="image" src="https://github.com/user-attachments/assets/484c86ab-be8e-4e55-bebf-25a5cca9450c" />
 
 <img src="docs/hero-screenshot.png" alt="Fragment Vault Interface" width="800" style="border-radius: 12px; margin-top: 20px; box-shadow: 0 0 20px rgba(255,255,255,0.1);"/>
 
-<img width="1919" height="998" alt="image" src="[https://github.com/user-attachments/assets/01d9e854-5a95-48bd-8362-50825a78fed0](https://github.com/user-attachments/assets/01d9e854-5a95-48bd-8362-50825a78fed0)" />
+<img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/54155515-64df-4932-8dbe-afd70a720946" />
+
 
 </div>
 
